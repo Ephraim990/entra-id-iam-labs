@@ -7,8 +7,8 @@ This project simulates core identity and access management (IAM) operations for 
 
 ## Environment
 - **Platform:** Microsoft Entra ID (Microsoft 365 Developer Program tenant)
-- **Organization:** Cook Technologies (fictional sandbox tenant — no real company data)
-- **Reference:** Andy Malone MVP — "Learn Microsoft Azure Active Directory in Just 30 Mins"
+- **Organization:** Cook Technologies (fictional sandbox tenant no real company data)
+- **Reference:** Andy Malone MVP "Learn Microsoft Azure Active Directory in Just 30 Mins"
 
 ## What I Did
 
